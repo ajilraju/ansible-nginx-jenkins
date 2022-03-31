@@ -12,5 +12,4 @@ galaxy_info:
   galaxy_tags: [nginx, linux, webserver, server]
 
 
-dependencies:
-  - geerlingguy.java
+dependencies: []
